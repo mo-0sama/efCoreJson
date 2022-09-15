@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra.EntityFrameworkCore", "Infra.EntityFrameworkCore\Infra.EntityFrameworkCore.csproj", "{B43459C9-0663-48F3-8663-65689F35BF07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPITest", "WebAPITest\WebAPITest.csproj", "{E96281EB-D633-4F80-B265-175728A07C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43459C9-0663-48F3-8663-65689F35BF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43459C9-0663-48F3-8663-65689F35BF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43459C9-0663-48F3-8663-65689F35BF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43459C9-0663-48F3-8663-65689F35BF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96281EB-D633-4F80-B265-175728A07C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96281EB-D633-4F80-B265-175728A07C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96281EB-D633-4F80-B265-175728A07C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96281EB-D633-4F80-B265-175728A07C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F53A28A-7358-49BE-8396-801164594353}
+	EndGlobalSection
+EndGlobal

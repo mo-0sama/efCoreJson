@@ -1,0 +1,10 @@
+﻿global using Infra.EntityFrameworkCore.Entities;
+global using Infra.EntityFrameworkCore.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+global using System.Text.Json;
+global using Infra.EntityFrameworkCore.Extensions;
