@@ -1,2 +1,4 @@
-# System.Text.Json Polymorphism
-Json Polymorphism is System.Text.Json Converter to support polymorphism, .net 6 framework doesn't support Polymorphism.
+# Json with efCore and DbFunction ("json_value")
+efcore support json and use dbfunction, this example to use object and efcore serialize it to string column, also use "json_value" db function in sql server to filter object in db.
+
+
